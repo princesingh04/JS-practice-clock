@@ -1,0 +1,8 @@
+#clock{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 300px;
+     color:green ;
+     background-color: aqua;
+}
